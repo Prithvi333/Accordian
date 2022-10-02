@@ -52,7 +52,7 @@ h1{
     line-height: 2;
 }
 .content-container.active .answer{
-    height: 270px;
+    height: 170px;
 }
 
 .content-container.active .question{
@@ -60,7 +60,7 @@ h1{
 
 }
 
-@media only screen and (max-width:375px)  {
+@media only screen and (max-width:400px)  {
     body{
         width: 172px;
         top:0;
